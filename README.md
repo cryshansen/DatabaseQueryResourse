@@ -1,0 +1,2 @@
+# DatabaseQueryResourse
+sample sql queries
